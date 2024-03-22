@@ -5,7 +5,7 @@ let btncp = document.getElementById("btncp");
 function generatePass() {
     let chars =
         "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+[]{}?><";
-    let passLength = 20;
+    let passLength = 10;
     let password = "";
 
     for (let i = 0; i < passLength; i++)
