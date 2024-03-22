@@ -1,4 +1,4 @@
-###  First JS challenge: Password Generator
+###  First JS mini-project: Password Generator
 
 ------------
 
