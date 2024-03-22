@@ -4,5 +4,5 @@
 
 
 - [Demo](https://sajjadjavazi.github.io/password-generator/ "Demo")
-- Made with HTML5, CSS3 and JavaScript pure
+- Made with HTML5, CSS3 and JavaScript vanilla
 - Responsive
