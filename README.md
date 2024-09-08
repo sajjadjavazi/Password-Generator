@@ -1,4 +1,4 @@
-# Password-Generator| [Demo](https://sajjadjavazi.github.io/Password-Generator/ "Demo")
+# Password-Generator | [Demo](https://sajjadjavazi.github.io/Password-Generator/ "Demo")
 ##  Description
 **Simple password generator that creates you a random password!**
 
